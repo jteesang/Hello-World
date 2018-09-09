@@ -1,7 +1,7 @@
 ## HELLOJULIA2
 
 ### App Description
-Android prototype app with functions of changing text, text color, background color, and inserting user text. 
+Android prototype app with functions of changing text, text color, view color, and inserting text. 
 
 ### App Walk-though
 <img src="http://g.recordit.co/gqZvo1NSi0.gif" width=200><br>
