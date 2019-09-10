@@ -1,4 +1,4 @@
-## HELLOJULIA2
+## Flashcards App
 
 ### App Description
 Android prototype app with functions of changing text, text color, view color, and inserting text. 
